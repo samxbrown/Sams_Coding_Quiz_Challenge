@@ -1,0 +1,62 @@
+/* .hide {
+    display: none;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 35%;
+    left: 22%;
+    margin-top: -50px;
+    margin-left: -320px;
+    font-size:xx-large;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 300%;
+}
+
+button {
+    color:white;
+    background-color: rgb(66, 3, 98);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 39%;
+    left: 55%;
+    margin-top: 15px;
+    margin-left: -165px;
+    border-style: solid;
+    width: -10%;
+    height: -10%;
+    border-radius: 25px;
+    padding: 20px;
+    font-size: x-large;
+}
+
+ .btn {
+     
+        color:white;
+        background-color: rgb(66, 3, 98);
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 15px;
+        /* margin-left: -165px; */
+        border-style: solid;
+        /* width: -10%;
+        height: -10%; */
+        border-radius: 25px;
+        padding: 20px;
+        font-size: x-large;
+        width: fit-content;
+        margin: 0 auto;
+}
+
+#answers-container {
+    flex-direction: column;
+    display: flex;
+
+} */

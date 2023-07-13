@@ -1,0 +1,28 @@
+h1{
+    color:black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 25%;
+    left: 46%;
+    margin-top: -50px;
+    margin-left: -200px;
+    font-size: 300%;
+}
+
+button {
+    color:white;
+    background-color: rgb(66, 3, 98);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 39%;
+    left: 49%;
+    margin-top: 15px;
+    margin-left: -250px;
+    border-style: solid;
+    width: -10%;
+    height: -10%;
+    border-radius: 25px;
+    padding: 20px;
+    font-size: x-large;
+}
