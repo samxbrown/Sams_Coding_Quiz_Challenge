@@ -1,7 +1,9 @@
-/* .hide {
+/* This feature is to hide the display */
+.hide {
     display: none;
 }
 
+/* This is for the paragraph on the starter page */
 p {
     color: black;
     text-align: center;
@@ -14,13 +16,14 @@ p {
     font-size:xx-large;
 }
 
+/* This code is to update the Header on the starter page */
 h1 {
     color:black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 300%;
 }
-
+/* This is for the starter page button */
 button {
     color:white;
     background-color: rgb(66, 3, 98);
@@ -37,7 +40,7 @@ button {
     padding: 20px;
     font-size: x-large;
 }
-
+/* This is for the question answer buttons */
  .btn {
      
         color:white;
@@ -59,4 +62,4 @@ button {
     flex-direction: column;
     display: flex;
 
-} */
+}
